@@ -1,0 +1,46 @@
+_repo: Gedichte-in-Prosa_37716
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Turgénieff, Iván
+    - Tourgueneff, Ivan
+    - Тургенев, Иван Сергеевич
+    - Toergenev, Ivan
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37716'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcc 'PG'
+tableOfContents: Das Dorf -- Ein Zwiegespräch -- Die Alte -- Der Hund -- Der Widersacher
+  -- Der Bettler -- Erfahren wirst du noch, wie Toren richten -- Ein Zufriedener --
+  Eine Lebensregel -- Das Ende der Welt. Ein Traum -- Mascha -- Der Dummkopf -- Eine
+  Legende des Morgenlandes -- Zwei Vierzeiler -- Der Sperling -- Die Totenschädel
+  -- Die Tagelöhner und der Weißhändige. Ein Gespräch -- Die Rose -- Letztes Wiedersehen
+  -- Ein Besuch -- Necessitas – Vis – Libertas. Ein Basrelief -- Das Almosen -- Das
+  Insekt -- Die Kohlsuppe -- Die Gefilde der Seligen -- Zwei Reiche -- Der Greis --
+  [78] Der Berichterstatter -- Zwei Brüder -- Dem Andenken an Fräulein J. P. Wrewskaja
+  -- Der Egoist -- Das Fest beim höchsten Wesen -- Die Sphinx -- Die Nymphen -- Freund
+  und Feind -- Christus -- Der Stein -- Die Tauben -- Morgen! Morgen! -- Die Natur
+  -- Hängt ihn! -- Was ich wohl denken werde -- Wie frisch und duftig waren doch die
+  Rosen -- Eine Seefahrt -- N. N. -- Halt inne! -- Der Mönch -- Noch wollen wir kämpfen!
+  -- Das Gebet -- Die russische Sprache.
+title: Gedichte in Prosa
+url: http://www.gutenberg.org/ebooks/37716
